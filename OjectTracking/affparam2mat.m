@@ -13,7 +13,7 @@ function q = affparam2mat(p)
 % Reference "Multiple View Geometry in Computer Vision" by Richard
 % Hartley and Andrew Zisserman. 
 
-% Copyright (C) Jongwoo Lim and David Ross.  All rights reserved.
+
 
 
 sz = size(p);

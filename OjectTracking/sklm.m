@@ -21,8 +21,7 @@ function [U, D, mu, n] = sklm(data, U0, D0, mu0, n0, ff, K)
 %    mu (N,1) : new mean
 %    n : new number of data
 
-%% Copyright (C) 2005 Jongwoo Lim and David Ross.
-%% All rights reserved.
+
  
 % Based on algorithm from A. Levy & M. Lindenbaum 
 %   "Sequential Karhunen-Loeve Basis Extraction and its Application

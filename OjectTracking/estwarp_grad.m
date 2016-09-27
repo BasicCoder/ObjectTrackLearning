@@ -2,8 +2,6 @@ function param = estwarp_grad(frm, tmpl, param, opt)
 % function param = estwarp_grad(frm, tmpl, param, opt)
 %
 
-%% Copyright (C) Jongwoo Lim and David Ross.
-%% All rights reserved.
 
 
 if (~isfield(opt,'minopt'))

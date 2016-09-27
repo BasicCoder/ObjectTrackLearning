@@ -8,6 +8,7 @@ function [UZ, DZ, muZ, nZ] = hall(data, UX, DX, muX, nX, ff, K)
 % decomposition and singular value decomposition", by Peter Hall, 
 % David Marshall, Ralph Martin, Image and Vision Computing 20 (2002).
 
+
 if nargin ~= 1 && nargin ~= 6 && narign ~= 7
     error('function must have either 1, 6, or 7 arguments');
 end

@@ -6,8 +6,6 @@ function wimg = warpimg(img, p, sz)
 %    sz(th,tw)
 %
 
-%% Copyright (C) 2005 Jongwoo Lim and David Ross.
-%% All rights reserved.
 
 
 if (nargin < 3)

@@ -14,8 +14,7 @@ function [img,nw] = showimgs(imgs, nw, basis)
 %    img : stiched image
 %    nw : (calculated) number of patches in horizontal direction
 
-%% Copyright (C) 2005 Jongwoo Lim and David Ross.
-%% All rights reserved.
+
 
 
   [h,w,n] = size(imgs);

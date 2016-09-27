@@ -2,8 +2,6 @@ function [err,afferr,recon,diff] = esterrfunc(p, frm, tmpl, opt)
 % function [err,afferr,recon,diff] = esterrfunc(p, frm, tmpl, opt)
 %
 
-%% Copyright (C) Jongwoo Lim and David Ross.
-%% All rights reserved.
 
 recon = [];
 if isstruct(tmpl)

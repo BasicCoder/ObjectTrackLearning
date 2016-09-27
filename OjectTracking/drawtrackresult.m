@@ -15,8 +15,7 @@ function drawopt = drawtrackresult(drawopt, fno, frame, tmpl, param, pts)
 %
 % uses: util/showimgs
 
-% Copyright (C) 2005 Jongwoo Lim and David Ross.
-% All rights reserved.
+
 
 
 if (isempty(drawopt))

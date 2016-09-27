@@ -6,8 +6,6 @@ function wimg = affwarpimg(img, p, sz)
 %    sz(th,tw)
 %
 
-%% Copyright (C) Jongwoo Lim and David Ross.
-%% All rights reserved.
 
 
 if (nargin < 3)

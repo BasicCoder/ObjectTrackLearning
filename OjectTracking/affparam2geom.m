@@ -13,7 +13,7 @@ function q = affparam2geom(p)
 % Reference "Multiple View Geometry in Computer Vision" by Richard
 % Hartley and Andrew Zisserman. 
 
-% Copyright (C) Jongwoo Lim and David Ross.  All rights reserved.
+
 
 A = [ p(3), p(4); p(5), p(6) ];
 %%  A = USVt = (UVt)(VSVt) = R(th)R(-phi)SR(phi)

@@ -7,8 +7,7 @@
 %      .affsig [6,1]
 %      .condenssig
 
-%% Copyright (C) Jongwoo Lim and David Ross.
-%% All rights reserved.
+
 
 
 % initialize variables

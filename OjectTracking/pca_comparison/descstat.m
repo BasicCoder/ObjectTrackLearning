@@ -7,8 +7,9 @@ function [varargout] = descstat(M)
 % the min, mean, max, and standard deviation.  If the number of return
 % values is 0, then the statistics are printed on the screen.
 
-% Author: David Ross
-% $Id: descstat.m,v 1.1 2007-05-25 16:28:17 dross Exp $
+
+
+
 
 
 x = full(min(M(:)));

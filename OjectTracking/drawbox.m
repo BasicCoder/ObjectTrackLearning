@@ -5,8 +5,6 @@ function drawbox(varargin)
 %   param, properties are optional
 %
 
-%% Copyright (C) Jongwoo Lim and David Ross.
-%% All rights reserved.
 
 
 %----------------------------------------------------------

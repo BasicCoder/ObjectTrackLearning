@@ -4,7 +4,7 @@ function q = affparaminv(p,q)
 %    p(6,n) : [dx dy sc th sr phi]'
 %    q(6,n) : [q(1) q(3) q(4); q(2) q(5) q(6)]
 
-% Copyright (C) Jongwoo Lim and David Ross.  All rights reserved.
+
 
 if (length(p) == 6)
   p = p(:);
